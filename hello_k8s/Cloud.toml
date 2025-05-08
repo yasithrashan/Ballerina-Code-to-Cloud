@@ -1,0 +1,4 @@
+[container.image]
+repository="yasithrashan"
+name="hello-k8s"
+tag="0.1.0"
